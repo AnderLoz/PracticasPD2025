@@ -1,5 +1,3 @@
-//Álvaro Marcos Rodríguez
-
 
 //Web 1
 
