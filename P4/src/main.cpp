@@ -1,6 +1,3 @@
-//Álvaro Marcos Rodríguez
-
-
 
 // 1 
 
