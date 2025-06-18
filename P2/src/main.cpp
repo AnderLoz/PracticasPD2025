@@ -1,9 +1,4 @@
-// Álvaro Marcos Rodríguez
-
-
-// CODIGO A
-
-/*#include <Arduino.h>
+#include <Arduino.h>
 
 struct Button {
 const uint8_t PIN;
